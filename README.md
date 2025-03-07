@@ -20,7 +20,7 @@ On the application start, you will be asked to give your and second player's nam
 [p] - pause  
 [u] - undo  
 [q] - loading a predefined board  
-[n] - change token
+[n] - change token  
 [h] - entering the program description  
 
 ### Pentago  
