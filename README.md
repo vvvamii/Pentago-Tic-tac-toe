@@ -13,15 +13,15 @@ And about Tic-tac-toe: https://en.wikipedia.org/wiki/Tic-tac-toe
 
 On the application start, you will be asked to give your and second player's names with token signs you will be using, as well as to choose one of two games - pentago or tic-tac-toe.  
 
-[q], [w], [a], [s] - choose part of the board: top left, top right, bottom left, bottom right  
-[1] ... [9] - selection of the field on the part of the board as seen on the numeric keypad (i.e. 1 is the lower left field)  
-[z], [x] - rotate selected part of the board: clockwise, counter-clockwise  
-[m] - enter options  
-[p] - pause  
-[u] - undo  
-[q] - loading a predefined board  
-[n] - change token  
-[h] - entering the program description  
+[q], [w], [a], [s] - Choose part of the board: top left, top right, bottom left, bottom right  
+[1] ... [9] - Select one of the fields on the part of the board as seen on the numeric keypad (i.e. 1 is the lower left field)  
+[z], [x] - Rotate selected part of the board: clockwise, counter-clockwise  
+[m] - Enter options  
+[p] - Pause  
+[u] - Undo  
+[q] - Load a predefined board  
+[n] - Change token  
+[h] - Enter the program description  
 
 ### Pentago  
 
